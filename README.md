@@ -8,7 +8,7 @@ Mechanical engineer with hands-on experience in AI, computer vision, embedded sy
 2. PLC Automated Filling Gate
 
 ## Skills
-- Python, C++, Linux
+- Python
 - Computer Vision (YOLO, OpenCV)
 - Embedded (Raspberry Pi, ESP32)
 - Signal Processing & ML
